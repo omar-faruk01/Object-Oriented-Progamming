@@ -1,0 +1,9 @@
+question 1) How many presidents have been impeached? 
+Answer: 3
+
+question 2) How many hearts does an octopus have? 
+Answer: 3
+
+question 3) If there are 6 apples and you take away 4, how many do you have?
+Answer: 4
+	
